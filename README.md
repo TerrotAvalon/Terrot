@@ -1,0 +1,2 @@
+# Terrot
+Serwer minecraftowy Wiktorii
