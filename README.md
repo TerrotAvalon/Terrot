@@ -1,2 +1,1 @@
-# Terrot
-Serwer minecraftowy Wiktorii
+# Serwer Minecraftowy Wiktorii
